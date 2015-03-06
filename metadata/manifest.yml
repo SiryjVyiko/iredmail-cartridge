@@ -2,11 +2,11 @@ Name: iredmail
 Cartridge-Short-Name: iRedMail
 Display-Name: iRedMail
 Description: "Jelastic iRedMail"
-Version: '0.8.7'
+Version: '0.9.0'
 License: 'Apache licence'
 License-Url: 
 Vendor: Eclipse
-Cartridge-Version: 0.8.7
+Cartridge-Version: 0.9.0
 Cartridge-Vendor: Jelastic
 Categories:
   - service
